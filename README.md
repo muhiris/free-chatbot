@@ -1,5 +1,7 @@
 # free-chatbot
 
+![npm](https://img.shields.io/npm/v/wgpt) ![npm](https://img.shields.io/npm/dt/wgpt)
+
 Free AI chatbots without API keys for Node.js applications. Access multiple AI providers including Phind, DuckDuckGo, and Blackbox AI.
 
 ## Installation
